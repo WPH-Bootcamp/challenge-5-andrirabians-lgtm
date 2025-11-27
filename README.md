@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gtzGFPdC)
+
 # Challenge 5 (Phase 1) - Batch Repetition
 
 ---
@@ -22,14 +23,14 @@ Create a simple book management application using TypeScript. This application s
 
 ```typescript
 // Adding some books
-addBook('The Great Gatsby', 'F. Scott Fitzgerald', 1925);
-addBook('1984', 'George Orwell', 1949);
+addBook("The Great Gatsby", "F. Scott Fitzgerald", 1925);
+addBook("1984", "George Orwell", 1949);
 
 // Displaying all books
 listBooks();
 
 // Searching for a book by title
-searchBook('1984');
+searchBook("1984");
 ```
 
 ### **Expected Output:**
